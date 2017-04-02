@@ -1,0 +1,104 @@
+﻿body{
+    background-color:black;
+}
+
+.up
+{
+    position:absolute;
+    height:100px;
+    left:0px;
+    right:0px;
+    margin-top:0px;
+    margin-left:0px;
+    top: 0px;
+}
+
+   .dlist{
+
+       position:absolute;
+       top:120px;
+       left:10px;
+             height:40px;
+            width:200px;
+            -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+
+        }
+
+     .searchbar{
+            position:absolute;
+            top:120px;
+            left:300px;
+        
+        }
+
+      .sbox{
+            height:40px;
+            width:200px;
+            -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+  
+
+        }
+         .image
+      {
+          position:absolute;
+          top:180px;
+          left:10px;
+       
+      }
+            
+     .image1
+      {
+          position:absolute;
+          top:230px;
+          left:315px;
+       
+      }
+     .l1{
+            position:absolute;
+          top:244px;
+          left:427px;
+       
+     }
+      .l2{
+            position:absolute;
+          top:268px;
+          left:427px;
+       
+     }
+       .l3{
+            position:absolute;
+          top:295px;
+          left:427px;
+       
+     }
+        .l4{
+            position:absolute;
+          top:322px;
+          left:427px;
+       
+     }
+         .l5{
+            position:absolute;
+          top:348px;
+          left:427px;
+       }
+
+         .comment{
+             position:absolute;
+             top:500px;
+             left:0px;
+              }
+         .ctext{
+             position:absolute;
+             top:480px;
+             left:0px;
+             
+         }
+         
+    

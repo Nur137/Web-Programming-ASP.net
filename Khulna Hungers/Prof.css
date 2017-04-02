@@ -1,0 +1,197 @@
+﻿
+
+.up
+{
+    position:absolute;
+    height:200px;
+    left:200px;
+    right:0px;
+    background-image:url('dark.jpg');
+    margin-top:0px;
+    margin-left:0px;
+    top: 0px;
+}
+    .ppic{
+    position:absolute;
+    height:200px;
+    width:200px;
+    background-color:#808080;
+    margin-top:0px;
+    margin-left:0px;
+    background-image:url('pp.png');
+    top: 2px;
+    left: 3px;
+    right: 1345px;
+}
+
+    .nv{
+         position:absolute;
+        top:200px;
+        right:0px;
+        left:0px;
+        height:60px;
+        background-color:rgb(51,51,51);
+    }
+    .alright{
+        text-align:right;
+    }
+    .content{
+        position:absolute;
+        top:260px;
+        left:0px;
+        right:50%;
+          background-color:black;
+      
+     }
+    .conleft
+    {
+        position:absolute;
+        top:340px;
+        left:10px;
+        right:50%;
+        height:100%;
+        background-color:black;
+        
+    }
+    .line
+    {
+        position:absolute;
+        top:340px;
+        left:49.2%;
+        right:50.6%;
+        height:1000px;
+        background-color:#521818;
+    
+    }
+    .conright
+    {
+        position:absolute;
+        top:340px;
+        left:50%;
+        right:0px;
+        height:100%;
+        background-color:black;
+    
+
+    }
+    
+    .butest
+    {
+        position:absolute;
+        top:680px;
+   
+    }
+    .stfood
+    {
+        position:absolute;
+        top:340px;
+        left:210px;
+    }
+    .stshop
+    {
+        position:absolute;
+        top:340px;
+        right:295px;
+    }
+  
+
+     .StarCss {   
+            background-image:  url(images.png);  
+            height:24px;  
+            width:24px;  
+        }  
+        .FilledStarCss {  
+            background-image: url(images.png);  
+            height:24px;  
+            width:24px;  
+        }  
+        .EmptyStarCss {  
+            background-image: url(/Image/images.png);  
+            height:24px;  
+            width:24px;  
+        }  
+        .WaitingStarCss {  
+            background-image: url(images.png);  
+            height:24px;  
+            width:24px;  
+        }
+        .ddlist{
+            position:absolute;
+            top:280px;
+            left:370px;
+         
+        }  
+        .searchbar{
+            position:absolute;
+            top:280px;
+            right:300px;
+        
+        }
+        .sbox{
+            height:40px;
+            width:200px;
+            -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+  
+
+        }
+        .dlist{
+             height:40px;
+            width:200px;
+            -moz-border-radius: 15px;
+ border-radius: 15px;
+    border:solid 1px black;
+    padding:5px;
+
+        }
+
+        .Commfd
+        {
+            position:absolute;
+            top:740px;
+            left:0px;
+        }
+        .Commsp
+        {
+            position:absolute;
+             top:740px;
+            right:0px;
+       
+
+        }
+       
+
+          .boxfd
+        {
+            position:absolute;
+            top:620px;
+            left:10px;
+         }
+
+            .boxsp
+        {
+            position:absolute;
+            top:620px;
+            right:130px;
+         }
+            .cl{
+                    position:absolute;
+            top:570px;
+            left:15px;
+        
+
+            }
+            .cr{
+                    position:absolute;
+            top:570px;
+            right:350px;
+        
+
+            }
+ .q{
+     position:absolute;
+     top:620px;
+     left:0px;
+ }

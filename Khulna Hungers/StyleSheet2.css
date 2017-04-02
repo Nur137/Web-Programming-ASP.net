@@ -1,0 +1,24 @@
+﻿body {
+}
+.formDesign {
+    background-color:#d8d4d4;
+    padding:10px;
+    width:600px;
+    border:1px solid gray;
+    margin-bottom:10px;
+}
+.commentbox {
+    border:1px solid black;
+    width:600px;
+    padding:10px;
+    margin-bottom:4px;
+}
+.buttonSubmit {
+    background-color:#007acc;
+    padding:4px;
+    border:none;
+    color:white;
+}
+.buttonSubmit:hover {
+    background-color:#3ea7ed;
+}

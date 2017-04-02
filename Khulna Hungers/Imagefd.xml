@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Images>
+  <image name="Chicken_Popcorn.jpg" order="1" alter="Citylight Cafe"></image>
+  <image name="coffee_mocha.jpg" order="2" alter="Pizza Bazar"></image>
+  <image name="fried_rice.jpg" order="3" alter="Citylight Cafe"></image>
+  <image name="pizza.jpg" order="4" alter="Pizza Bazar"></image>
+  <image name="Soup.jpg" order="5" alter="Citylight Cafe"></image>
+  
+</Images>
